@@ -9,7 +9,7 @@ export default function About() {
 
         <div>
           <p className="mt-4 text-lg">
-            Welcome to our IMDb Clone, a movie discovery platform that lets you explore a vast collection of movies and TV shows. Whether you're looking for the latest trending films, top-rated classics, or searching for specific titles, our platform makes it easy to browse and find what you're looking for, just like IMDb!
+            Welcome to our IMDb Clone, a movie discovery platform that lets you explore a vast collection of movies and TV shows. Whether you&apos;re looking for the latest trending films, top-rated classics, or searching for specific titles, our platform makes it easy to browse and find what you&apos;re looking for, just like IMDb!
           </p>
         </div>
 
@@ -38,7 +38,7 @@ export default function About() {
         <section className="mt-6 space-y-4">
           <h3 className="text-xl font-semibold text-amber-500">Why Use This Site?</h3>
           <p>
-            Our IMDb Clone is a free and easy-to-use tool for movie enthusiasts who want to stay up-to-date with the latest movies and TV shows. Whether you're planning your next movie night, researching a new show, or just exploring popular content, this site provides a seamless browsing experience.
+            Our IMDb Clone is a free and easy-to-use tool for movie enthusiasts who want to stay up-to-date with the latest movies and TV shows. Whether you&apos;re planning your next movie night, researching a new show, or just exploring popular content, this site provides a seamless browsing experience.
           </p>
           <ul className="list-disc pl-6 mt-2">
             <li>Get quick access to trending and top-rated movies.</li>
@@ -49,7 +49,7 @@ export default function About() {
       </section>
 
       <footer className="mx-auto text-center mt-8 p-4 bg-gray-800 text-white">
-        <p>Made with 💗 by Madhusudan</p>
+        <p>Made with 💗 by EviL</p>
       </footer>
     </>
   );
