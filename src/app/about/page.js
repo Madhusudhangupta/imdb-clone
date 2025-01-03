@@ -49,7 +49,7 @@ export default function About() {
       </section>
 
       <footer className="mx-auto text-center mt-8 p-4 bg-gray-800 text-white">
-        <p>Made with 💗 by EviL</p>
+        <p>Made with 💗 by Madhusudan</p>
       </footer>
     </>
   );
